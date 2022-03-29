@@ -11,16 +11,22 @@
  3. download လို့ရတဲ့ file ကို ဖွင့်
 
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/02.png?raw=true)
+
 4. next လုပ်သွား
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/03.png?raw=true)
+
 5. အောက်က အဆင့်နည်းနည်းကလွဲပြီး၊ အကုန်နီးပါး သူပေးထားတဲ့အတိုင်း next နှိပ်
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/04.png?raw=true)
+
 6. **ဒီအဆင့်မှာ main ပြောင်း**
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/05.png?raw=true)
-7. **ဒီမှာ credential manager ကို select လုပ်ထားရမယ်**
+
+7. **ဒီမှာ credential manager ကို select လုပ်ထားရမယ်။** ဒါပြီးရင် အကုန် next နှိပ်သွား
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/06.png?raw=true)
+
 8. cmd or powershell မှာ ဒီလိုပေါ်ရင် သွင်းတာအောင်မြင်ပြီ
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/07.png?raw=true)
+
 9. git install ပြီးရင် search ကနေဖြစ်ဖြစ် **git bash** လို့ရှာလိုက်ရင် cmd or powershell လို terminal တစ်ခုတွေ့လိမ့်မယ်၊ နောက် code ရင် cmd or powershell အစား အဲ့ကောင်သုံးလည်းရတယ် 
 10. လောလောဆယ် setup နောက်ဆုံးအဆင့်အနေနဲ့ name and email ထည့်ရမယ်။ ဘာထည့်ထည့်ရပေမယ့်၊ **email မှာ github အကောင့်လုပ်တုန်းက email၊ name နေရာ github username ထည့်ရင် github user ပြန်ရှာရတာပိုလွယ်တယ်**။ cmd or powershell or git bash တစ်ခုခုမှာ အောက်ကပုံစံ ရိုက်ထည့်လိုက်ရင် setup လုပ်တာပြီးပြီ။
 
@@ -28,7 +34,8 @@
     git config --global user.name "Your Name"
 
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/08.png?raw=true)
- 11. github ကို git သုံးပြီး အစမ်းတင်ချင်ရင် github မှာ new repo လုပ်လိုက်။ စက်ထဲက ကိုယ်တင်ချင်တဲ့ code နေရာမှာ git terminal or git bash ဖွင့်။ အောက်က command တွေ run
+
+11. github ကို git သုံးပြီး အစမ်းတင်ချင်ရင် github မှာ new repo လုပ်လိုက်။ စက်ထဲက ကိုယ်တင်ချင်တဲ့ code နေရာမှာ git terminal or git bash ဖွင့်။ အောက်က command တွေ run
 ![00.png](https://github.com/rfbroccoli/public/blob/main/git-installation/Screenshot%20from%202022-03-29%2014-38-40.png?raw=true)
 
 	git init 
